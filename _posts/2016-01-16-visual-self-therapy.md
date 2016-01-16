@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T18:36:11.808Z'
-dateModified: '2016-01-16T18:00:39.825Z'
+datePublished: '2016-01-16T18:48:04.852Z'
+dateModified: '2016-01-16T18:48:00.684Z'
 title: Visual Self Therapy
 author: []
+sourcePath: _posts/2016-01-16-visual-self-therapy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-16-visual-self-therapy.md
-published: true
 url: visual-self-therapy/index.html
 _type: Article
 
