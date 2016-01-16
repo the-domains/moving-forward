@@ -1,0 +1,28 @@
+name: Moving Forward
+favicon: null
+layout_spectrum: 0.6252448754385114
+typography_spectrum: 0.23684195429086685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#1b120d'
+    - '#4f6a7f'
+    - '#333644'
+    - '#668234'
+    - '#85a159'
+  brandStrength: 0.7993595944717526
+  lightness: 0.5323764132335782
+  saturation: 0.10827458603307605
+  rhythmicContrast: 0.40367250493727624
+purpose: []
