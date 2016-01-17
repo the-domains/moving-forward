@@ -2,7 +2,6 @@ name: Moving Forward
 favicon: null
 layout_spectrum: 0.6252448754385114
 typography_spectrum: 0.23684195429086685
-title: "Don't Turn Your Back on Fear"
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1b120d'
-    - '#4f6a7f'
-    - '#333644'
-    - '#668234'
-    - '#85a159'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
   brandStrength: 0.7993595944717526
   lightness: 0.5323764132335782
   saturation: 0.10827458603307605
