@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T22:29:50.076Z'
+datePublished: '2016-01-16T22:29:50.082Z'
 dateModified: '2016-01-16T22:29:42.340Z'
 title: Visual Self Therapy
 author: []
