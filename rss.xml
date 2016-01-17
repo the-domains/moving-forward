@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[From Within]]></title>
         <description><![CDATA[From Within]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moving-forward/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 23:47:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 01:02:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moving-forward/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41034776-946d-4eca-88a4-1d9b3dfa814e.jpg">]]></description>
-            <link>undefined9235bd34-2f4d-4cc7-9a39-62c63325ce80/index.html</link>
+            <title><![CDATA[Antenna of Optimism]]></title>
+            <description><![CDATA[<article><h1>Antenna of Optimism</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9665a28ab3774b337db6f35190ad0835572ffabe.jpg"></article>]]></description>
+            <link>https://thegrid.ai/moving-forward/9235bd34-2f4d-4cc7-9a39-62c63325ce80/index.html</link>
             <guid isPermaLink="false">9235bd34-2f4d-4cc7-9a39-62c63325ce80</guid>
-            <pubDate>Sat, 16 Jan 2016 23:38:31 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 01:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
